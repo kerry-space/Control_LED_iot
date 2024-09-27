@@ -1,6 +1,6 @@
 # Raspberry Pi Pico W LED Web Server
 
-This project is a simple web server running on the Raspberry Pi Pico W, allowing you to control an onboard LED via a web interface or terminal commands (using `curl`). The web interface is styled and includes buttons for turning the LED on and off, and it also displays the current status of the LED (ON or OFF).
+This project is a simple web server running on the Raspberry Pi Pico W, allowing you to control an onboard LED via a web interface or terminal commands (using `curl`). The web interface is styled and includes buttons for turning the LED on and off, and it also displays the current status of the LED (ON or OFF)..
 
 ![Raspberry Pi Pico W Web Server](./pico.png)
 
